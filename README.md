@@ -6,3 +6,6 @@ thread grp>sampler>http request
 Http request>add>lisner>tree
 then add the api in the website 
 website>inspect>network>scroll> api
+
+They are types of error
+
